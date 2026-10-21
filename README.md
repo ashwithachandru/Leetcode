@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ashhwiithac22/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashhwiithac22/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashhwiithac22/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2032-two-out-of-three](https://github.com/ashhwiithac22/Leetcode/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ashhwiithac22/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashhwiithac22/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashhwiithac22/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ashhwiithac22/Leetcode/tree/master/0832-flipping-an-image) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ashhwiithac22/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/ashhwiithac22/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2032-two-out-of-three](https://github.com/ashhwiithac22/Leetcode/tree/master/2032-two-out-of-three) |
 ## Matrix
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashhwiithac22/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashhwiithac22/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashhwiithac22/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2032-two-out-of-three](https://github.com/ashhwiithac22/Leetcode/tree/master/2032-two-out-of-three) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ashhwiithac22/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashhwiithac22/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ashhwiithac22/Leetcode/tree/master/3731-find-missing-elements) |
